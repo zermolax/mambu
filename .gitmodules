@@ -1,0 +1,3 @@
+[submodule "mambu-cms"]
+	path = mambu-cms
+	url = ./mambu-cms
